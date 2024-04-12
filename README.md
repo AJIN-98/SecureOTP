@@ -72,4 +72,3 @@ This application uses an H2 database. Ensure that the database is properly confi
 configuration in the `application.properties` file.
 
 
-
